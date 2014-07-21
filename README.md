@@ -1,5 +1,5 @@
-Hướng dẫn sử dụng Markdown
-================
+#Hướng dẫn sử dụng Markdown- Nguyễn Hoài Nam
+
 
 ##Nội dung trình bày
 1. Các thẻ tiêu đề
