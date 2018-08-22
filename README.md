@@ -1,7 +1,7 @@
-#Hướng dẫn sử dụng Markdown- Nguyễn Hoài Nam
+# Hướng dẫn sử dụng Markdown- Nguyễn Hoài Nam
 
 
-##Nội dung trình bày
+## Nội dung trình bày
 1. Các thẻ tiêu đề
 1. Đoạn văn bản
 1. Trình bày theo danh sách
@@ -26,13 +26,13 @@ Dòng lệnh:
 #### Thẻ H4
 ```
 Kết quả là:
-#Thẻ H1
+# Thẻ H1
 
-##Thẻ H2
+## Thẻ H2
 
-###Thẻ H3
+### Thẻ H3
 
-####Thẻ H4
+#### Thẻ H4
 
 2) Đoạn Văn Bản
 ----
